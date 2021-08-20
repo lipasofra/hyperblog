@@ -1,3 +1,8 @@
 Esta es la historia de Lina Soler
 Tengo 27 años y nací en Colombia
 YO SOY la mejor programadora del mundo.
+
+Voy a probar el GIT RESET HEAD. no he stagiado esto.
+
+probaré ahora el reset soft a ver que
+ESTOY EN EL STAGING
