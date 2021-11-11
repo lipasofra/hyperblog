@@ -1,5 +1,3 @@
-# hyperblog
-Página de prueba para el curso de Git y Github de Platzi
 # Hyperblog
 El repositorio de prueba para aprender a usar Git y Github del curso de Platzi.
 
