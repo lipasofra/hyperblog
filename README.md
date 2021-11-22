@@ -10,6 +10,6 @@ El repositorio de prueba para aprender a usar Git y Github del curso de Platzi.
 - Clonar, modificar, hacer fork, contribuir, hacer pull request etc... de otros repositorios
 ------------
 - Y conozco herramientas geniales como editor.md para editar el readme
-- Probando el cherry-pick - oh si-.
+- Probando el cherry-pick - oh si-.x2
 
 :tw-1f381: :tw-1f381: :tw-1f381:
